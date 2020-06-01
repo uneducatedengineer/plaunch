@@ -1,7 +1,7 @@
 plaunch
 =======
 
-A simple CLI for improving your productivity
+A simple CLI for improving your productivity 😏
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/plaunch.svg)](https://npmjs.org/package/plaunch)
