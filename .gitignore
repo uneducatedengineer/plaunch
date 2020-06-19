@@ -110,4 +110,5 @@ dist
 /lib
 /package-lock.json
 /tmp
+/env
 node_modules
